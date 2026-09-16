@@ -1,0 +1,17 @@
+# Virtual environments
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Generated logs
+logs/
+
+# Credentials and secrets
+kaggle.json
+.env
+
+# Large local datasets
+data/*.zip
+data/*.parquet
